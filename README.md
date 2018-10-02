@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+### Wait a second!
 
 You can use the [editor on GitHub](https://github.com/ThisIsNOTVERYMatt/reddit-html-mining/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
