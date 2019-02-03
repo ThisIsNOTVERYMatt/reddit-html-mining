@@ -1,3 +1,12 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-133664288-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-133664288-1');
+</script>
 ### Wait a second!
 
 You can use the [editor on GitHub](https://github.com/ThisIsNOTVERYMatt/reddit-html-mining/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
